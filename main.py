@@ -22,7 +22,7 @@ from tempfile import mkdtemp, gettempdir
 from win32crypt import CryptUnprotectData
 from datetime import datetime, timezone, timedelta
 
-__author__ = "Rdimo"
+__author__ = "Xoid/Pezko"
 __version__ = '1.8.7'
 __license__ = "GPL-3.0"
 __config__ = {
